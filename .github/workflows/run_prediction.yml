@@ -39,4 +39,8 @@ jobs:
 
     # Langkah 5: Menjalankan skrip utama Python Anda
     - name: Run prediction script
+<<<<<<< HEAD
       run: python Prediksi_Cuaca_Rekomendasi_Penyiraman.py
+=======
+      run: Prediksi_Cuaca_Rekomendasi_Penyiraman.py
+>>>>>>> fe7e2936bef272684eed6f28439b497e4db530f4
